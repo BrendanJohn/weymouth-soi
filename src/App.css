@@ -2,6 +2,8 @@
   text-align: center;
 }
 
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -11,6 +13,14 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+.justify-content-center {
+  justify-content: center!important;
+}
+
+.d-flex {
+  display: flex!important;
 }
 
 .App-header {
