@@ -14,11 +14,11 @@ function App() {
         <h3 className='under-tag-line'><i>Lodge No. 278 </i></h3>
       </div>
       <div className='d-flex justify-content-center'>
-        <h3 className='under-tag-line'>54 Whitman St, Weymouth, MA 02189</h3>
+        <h3 className='under-tag-line'>54 Whitman St</h3>
       </div>
       <div className='d-flex justify-content-center'>
-        <h3 className='under-tag-line'>(781) 335-9820</h3>
-      </div>
+        <h3 className='under-tag-line'>Weymouth, MA 02189</h3>
+      </div>    
       <div className='d-flex justify-content-center'>
         <h3 className='under-tag-line'>Hours 11AM- 11PM daily</h3>
       </div>
