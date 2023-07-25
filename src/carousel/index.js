@@ -20,19 +20,19 @@ const HomePageCarousel = () => {
           margin: '20px auto',
         }} >  
          <div>
-          <img src='/images/number1.jpg' alt='dennis headshot two'/>
+          <img src='/images/lodgeSign.jpg' alt='Exterior of lodge with sign'/>
         </div>
         <div>
-          <img src='/images/interior.jpg' alt='dennis headshot four'/>
+          <img src='/images/interior.jpg' alt='Interior of Lodge'/>
         </div>
         <div>
-          <img src='/images/exterior.jpg' alt='dennis headshot five'/>
+          <img src='/images/exterior.jpg' alt='Exterior of Lodge'/>
         </div>
         <div>
-          <img src='/images/baby-shower.jpg' alt='dennis headshot one'/>
+          <img src='/images/baby-shower.jpg' alt='Baby Shower Setup'/>
         </div>
         <div>
-          <img src='/images/tables.jpg' alt='dennis headshot three'/>
+          <img src='/images/tables.jpg' alt='Large setup with tables'/>
         </div>
       </Carousel>
       </div>
