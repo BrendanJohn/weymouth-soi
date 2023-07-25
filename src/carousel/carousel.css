@@ -1,0 +1,25 @@
+div.thumbs-wrapper.axis-vertical {
+    margin: auto;
+    width: 50%;
+}
+
+.carousel .slide img {
+    text-align: center;
+    max-width: 850px;
+    margin: 20px auto;
+    border-radius: 25px;
+}
+
+@media screen and (max-width: 550px) {
+    div.thumbs-wrapper.axis-vertical {
+        margin: auto;
+        width: 92%;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    div.thumbs-wrapper.axis-vertical {
+        margin: auto;
+        width: 92%;
+    }
+}

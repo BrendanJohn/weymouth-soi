@@ -1,0 +1,26 @@
+.social-icon {
+    float: right;
+    margin-right: 15px
+}
+
+.site-title {
+    font-family: "Helvetica Neue",Arial,sans-serif
+}
+
+#socials {
+    margin-top: 10px;
+}
+
+@media screen and (max-width: 550px) {
+    .social-icon {
+        float: right;
+        margin-right: 3px;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .social-icon {
+        float: right;
+        margin-right: 3px;
+    }
+}
