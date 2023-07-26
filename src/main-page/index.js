@@ -14,6 +14,9 @@ function App() {
         <h3 className='under-tag-line'><i>Lodge No. 278 </i></h3>
       </div>
       <div className='d-flex justify-content-center'>
+        <h3 className='under-tag-line'>Function Hall Availabe for Rent</h3>
+      </div>
+      <div className='d-flex justify-content-center'>
         <h3 className='under-tag-line'>54 Whitman St</h3>
       </div>
       <div className='d-flex justify-content-center'>
@@ -21,9 +24,6 @@ function App() {
       </div>    
       <div className='d-flex justify-content-center'>
         <h3 className='under-tag-line'>Hours 11AM- 11PM daily</h3>
-      </div>
-      <div className='d-flex justify-content-center'>
-        <h3 className='under-tag-line'>Function Hall Availabe for Rent</h3>
       </div>
       <HomePageCarousel></HomePageCarousel>
     </div>  
