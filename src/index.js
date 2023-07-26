@@ -20,7 +20,7 @@ ReactDOM.render(
     <Header></Header>
     <Routes>
           <Route path="/" element={<App />} />
-          <Route path="weymouth-function-hall" element={<Contact />} />
+          <Route path="function-hall-booking" element={<Contact />} />
     </Routes>
     <Socials></Socials>
     </div>

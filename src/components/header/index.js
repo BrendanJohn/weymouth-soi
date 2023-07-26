@@ -22,8 +22,8 @@ const Header = ({ subtitle }) => (
         <Nav className="me-auto">
         </Nav>
         <Nav>
-          <LinkContainer to="/contact">
-            <Nav.Link>Contact</Nav.Link>
+          <LinkContainer to="/function-hall-booking">
+            <Nav.Link>Book the Weymouth Function Hall</Nav.Link>
           </LinkContainer>
         </Nav>
       </Navbar.Collapse>
