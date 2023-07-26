@@ -20,10 +20,10 @@ const HomePageCarousel = () => {
           margin: '20px auto',
         }} >  
          <div>
-          <img src='/images/lodgeSign.jpg' alt='Exterior of lodge with sign'/>
+          <img src='/images/lodgeSign.jpg' alt='Exterior of lodge with sign with members lounge'/>
         </div>
         <div>
-          <img src='/images/interior.jpg' alt='Interior of Lodge'/>
+          <img src='/images/function-hall-weymouth.jpg' alt='Weymouth Function Hall'/>
         </div>
         <div>
           <img src='/images/exterior.jpg' alt='Exterior of Lodge'/>

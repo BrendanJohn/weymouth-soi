@@ -23,7 +23,7 @@ function App() {
         <h3 className='under-tag-line'>Hours 11AM- 11PM daily</h3>
       </div>
       <div className='d-flex justify-content-center'>
-        <h3 className='under-tag-line'>Function Hall Availbe for Rent</h3>
+        <h3 className='under-tag-line'>Function Hall Availabe for Rent</h3>
       </div>
       <HomePageCarousel></HomePageCarousel>
     </div>  

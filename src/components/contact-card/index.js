@@ -15,8 +15,8 @@ const ContactCard = () => {
           <div className="d-flex justify-content-center">
             <div className="card contactCard" >
               <div className="card-body">
-                <h5 className="card-title">Booking</h5>
-                <span className="card-text"><strong>For booking inquiries, please contact:</strong></span>
+                <h5 className="card-title">Function Hall Booking</h5>
+                <span className="card-text"><strong>To book the Weymouth Function Hall, please contact:</strong></span>
                 <h6 className="card-subtitle mb-2 text-muted">Tom Morse, Manager</h6>
                 <span className="card-text"><strong>Sons of Italy, Weymouth</strong></span>
                 <br />
