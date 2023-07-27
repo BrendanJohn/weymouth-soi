@@ -12,6 +12,13 @@ const config = {
 const ContactCard = () => {
     return (
       <div>
+        <div className='d-flex justify-content-center'>
+            <h1 className='tagline'><strong>Weymouth Sons of Italy</strong></h1>
+          </div>
+          <div className='d-flex justify-content-center'>
+            <body><p>Our Weymouth function hall is available for booking. This large capacity venue is handicap accessible, has a full bar, 
+              and can handle a capacity of 250 people.</p></body>
+          </div>
           <div className="d-flex justify-content-center">
             <div className="card contactCard" >
               <div className="card-body">
