@@ -6,3 +6,8 @@
 #main-logo {
     max-width: 7%;
 }
+
+.smallerImage {
+  max-width: 50%;
+  padding: 25px;
+}

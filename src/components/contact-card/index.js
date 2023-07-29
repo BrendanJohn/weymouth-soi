@@ -1,5 +1,6 @@
 import './contact-card.css'
 import { ServoiceFeedback } from 'react-feedback-widget';
+import InfoBox from '../info-box'
 
 const config = {
   servId: 'cl8t3e61z000709l0fy773k38',
@@ -12,17 +13,12 @@ const config = {
 const ContactCard = () => {
     return (
       <div>
-        <div className='d-flex justify-content-center'>
-            <h1 className='tagline'><strong>Weymouth Sons of Italy</strong></h1>
-          </div>
-          <div className='d-flex justify-content-center'>
-            <body><p>Our Weymouth function hall is available for booking weddings, receptions, and birthdays. This large capacity venue is handicap accessible, has a full bar, 
-              and can handle a capacity of 250 people.</p></body>
-          </div>
+        <InfoBox></InfoBox>
+        <img src='/images/function-hall-weymouth.jpg' alt='Weymouth Function Hall' class="rounded mx-auto d-block smallerImage"></img>
           <div className="d-flex justify-content-center">
             <div className="card contactCard" >
               <div className="card-body">
-                <h5 className="card-title">Function Hall Booking</h5>
+                <h5 className="card-title">Function Hall Booking:</h5>
                 <span className="card-text"><strong>To book the Weymouth Function Hall, please contact:</strong></span>
                 <h6 className="card-subtitle mb-2 text-muted">Tom Morse, Manager</h6>
                 <span className="card-text"><strong>Sons of Italy, Weymouth</strong></span>
