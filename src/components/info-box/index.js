@@ -10,5 +10,5 @@ const InfoBox = () => {
             </p></body>
         </div>
     );
-  };
+  };    
   export default InfoBox;
