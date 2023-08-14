@@ -19,13 +19,10 @@ const ContactCard = () => {
             <div className="card contactCard" >
               <div className="card-body">
                 <h1 className="card-title">Weymouth Function Hall Booking</h1>
-                <p className="card-text"><strong>To book the Weymouth Function Hall, please contact:</strong></p>
-                <h6 className="card-subtitle mb-2 text-muted">Tom Morse, Manager</h6>
+                <p className="card-text"><strong>To book the Weymouth Function Hall, please call:</strong></p>
                 <span className="card-text"><strong>Sons of Italy, Weymouth</strong></span>
                 <br />
-                <span className="card-text">tom@weymouthdogshop.com </span>
-                <br />
-                <span className="card-text">(781) 335-9820</span>
+                <span className="card-text">(781) 335-9820 choose option 2</span>
                 <br />
                 <br />
                 <ServoiceFeedback config={config}>

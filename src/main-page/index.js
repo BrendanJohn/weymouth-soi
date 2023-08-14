@@ -15,7 +15,7 @@ function App() {
             <h3 className='under-tag-line'><i>Lodge No. 278 </i></h3>
         </div>
         <div className='d-flex justify-content-center'>
-            <h3 className='under-tag-line'>Function Hall Availabe for Rent</h3>
+            <h3 className='under-tag-line'>Function Hall Available for Rent</h3>
         </div>
         <div className='d-flex justify-content-center'>
             <h3 className='under-tag-line'>54 Whitman St</h3>
